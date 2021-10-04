@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+The languages I use the most are **Java** and **C#**. I am interested in learning about *Artificial Intelligence*.
