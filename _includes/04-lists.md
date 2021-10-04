@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Rock Climbing
+2. Soccer
+3. Computer Science
+  1. AI
